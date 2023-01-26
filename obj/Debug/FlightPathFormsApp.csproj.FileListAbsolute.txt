@@ -1,0 +1,10 @@
+C:\Users\herhe\source\repos\FlightPathFormsApp\bin\Debug\FlightPathFormsApp.exe.config
+C:\Users\herhe\source\repos\FlightPathFormsApp\bin\Debug\FlightPathFormsApp.exe
+C:\Users\herhe\source\repos\FlightPathFormsApp\bin\Debug\FlightPathFormsApp.pdb
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.Properties.Resources.resources
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.csproj.GenerateResource.cache
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.exe
+C:\Users\herhe\source\repos\FlightPathFormsApp\obj\Debug\FlightPathFormsApp.pdb
